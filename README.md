@@ -79,10 +79,11 @@ Now you should have a folder structure like this:
         ├── STAR.example.com.pem
         └── private.key.pem
 
-  AWS ACM import 
-    Certificate body only need this file : STAR.example.com.pem
-    Certificate private key need this file : private.key.pem
-    Certificate chain need this file : CAChain.pem
+  AWS ACM import:
+  
+    - Certificate body only need this file : STAR.example.com.pem
+    - Certificate private key need this file : private.key.pem
+    - Certificate chain need this file : CAChain.pem
 
 
   
