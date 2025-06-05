@@ -66,10 +66,10 @@ $ cat ./pem/USERTrustRSAAAACA.pem >> ./pem/CAChain.pem
 
 Now you should have a folder structure like this:
 
-    ├── AddTrustExternalCARoot.crt
-    ├── COMODORSAAddTrustCA.crt
-    ├── COMODORSADomainValidationSecureServerCA.crt
-    ├── cdn_guillaumemaka_com.crt
+    ├── AAACertificateServices.crt
+    ├── USERTrustRSAAAACA.crt
+    ├── SectigoRSADomainValidationSecureServerCA.crt
+    ├── STAR.example.com.crt
     ├── private.key
     └── pem
         ├── AAACertificateServices.pem
